@@ -1,0 +1,20 @@
+PODS:
+  - Euclid (0.1.9)
+  - SCNLine (1.0.3)
+
+DEPENDENCIES:
+  - Euclid (~> 0.1)
+  - SCNLine (~> 1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Euclid
+    - SCNLine
+
+SPEC CHECKSUMS:
+  Euclid: 2eb8740c196b930814117c4bd4515abd4d8ffcc6
+  SCNLine: 8efd7a5813ae43d88e3a8b2fd1c2f55fe9a3fd9d
+
+PODFILE CHECKSUM: c96b7e5c961c60f7475d7d73200df24c35625cf9
+
+COCOAPODS: 1.5.3
