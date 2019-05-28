@@ -1,6 +1,6 @@
 # Earth and Orbit
 
-Earth and Orbit (working title: sattracker) is an ios swift project for visualising the earth and stuff that's orbiting it.
+Earth and Orbit (working title: sattracker) is an ios swift project for visualising the earth and stuff that's orbiting it using SceneKit.
 
 ![Screenshot](./screenshot.png "Screenshot")
 
