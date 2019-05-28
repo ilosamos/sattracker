@@ -2,7 +2,7 @@
 
 Earth and Orbit (working title: sattracker) is an ios swift project for visualising the earth and stuff that's orbiting it.
 
-![Screenshot](./screenshot.png =200x)
+![Screenshot](./screenshot.png "Screenshot")
 
 ## Orbit
 The Orbit class creates a 3D "line" for visualising an orbit path using perigee, apogee and the inclination of the orbit.
